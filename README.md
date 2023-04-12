@@ -1,16 +1,30 @@
 # Tindog
 
-![Bower](https://img.shields.io/bower/l/bootstrap) (https://github.com/alexsandralazaro/tindog/blob/main/licence)
+![Title Section](https://github.com/alexsandralazaro/tindog/blob/main/assets/section-title.png)
+
+![GitHub](https://img.shields.io/github/license/alexsandralazaro/tindog)(https://github.com/alexsandralazaro/tindog/blob/main/licence)
 
 # Sobre o projeto
 
 https://alexsandralazaro.github.io/tindog
 
+
 Descrição
 
-## Layout tindog
+# Tecnologias Utilizadas
 
-![Title Section](https://github.com/alexsandralazaro/tindog/blob/main/assets/section-title.png)
+### Front-End
+
+- HTML
+- CSS
+- Bootstrap 5.3.0
+
+
+
+
+
+
+
 
 
 
