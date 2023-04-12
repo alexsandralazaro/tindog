@@ -10,7 +10,7 @@ https://alexsandralazaro.github.io/tindog
 
 Você já conhece o Tinder certo?
 
-Nesse projeto foi criada uma Landing Page paro o app Tindog que também é um aplicativo social, porém para encontrar amiguinhos para os cães.
+Nesse projeto foi criada uma Landing Page responsiva para o app Tindog que também é um aplicativo social, porém para encontrar amiguinhos para os cães.
 
 # Tecnologias Utilizadas
 
