@@ -2,14 +2,15 @@
 
 ![Title Section](https://github.com/alexsandralazaro/tindog/blob/main/assets/section-title.png)
 
-![GitHub](https://img.shields.io/github/license/alexsandralazaro/tindog)(https://github.com/alexsandralazaro/tindog/blob/main/licence)
-
 # Sobre o projeto
+
+[![GitHub](https://img.shields.io/github/license/alexsandralazaro/tindog)](https://github.com/alexsandralazaro/tindog/blob/main/licence)
 
 https://alexsandralazaro.github.io/tindog
 
+Você já conhece o Tinder certo?
 
-Descrição
+Nesse projeto foi criada uma Landing Page paro o app Tindog que também é um aplicativo social, porém para encontrar amiguinhos para os cães.
 
 # Tecnologias Utilizadas
 
@@ -17,14 +18,10 @@ Descrição
 
 - HTML
 - CSS
-- Bootstrap 5.3.0
+- Bootstrap v5.3
 
+# Autora
 
+Alexsandra da Silva Lázaro
 
-
-
-
-
-
-
-
+https://www.linkedin.com/in/alexsandralazaro
